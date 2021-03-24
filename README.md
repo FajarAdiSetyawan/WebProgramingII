@@ -24,6 +24,9 @@ view/pertemuan2.php
 <div align="center">
     <img src="screenshoot/view-pertemuan2.PNG"</img> 
 </div>
+
+<br>
+
 #### Hasil
 
 <div align="center">
