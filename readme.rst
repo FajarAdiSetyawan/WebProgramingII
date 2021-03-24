@@ -1,8 +1,6 @@
-###################
-Web Programing II
-###################
+# Web Programing II
 
-Nama: Fajar Adi Setyawan
-NIM: 12180016
-Kelas: 12.6B.05
+ Nama: Fajar Adi Setyawan<br>
+ NIM: 12180016<br>
+ Kelas: 12.6B.05<br>
 
